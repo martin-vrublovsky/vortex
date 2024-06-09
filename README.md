@@ -11,8 +11,8 @@
 ### 1. Side nav bar
 You can move between the **Home** and **About** subpages via the side nav bar.
 
-<div style="text-align: center;">
-    <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/side_nav_bar.png?raw=true" width="150">
+<div align="center">
+    <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/side_nav_bar.png?raw=true" width="200">
 </div>
 
 ### 2. Table of applicants
@@ -22,20 +22,22 @@ With the ${\textsf{\color{yellow}yellow pen icon}}$, you can change information 
 
 You can remove a applicant from the table with the ${\textsf{\color{red}red trash icon}}$.
 
-![alt text](https://github.com/martin-vrublovsky/vortex/blob/main/public/img/table_of_candidates.png?raw=true)
+<div align="center">
+    <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/table_of_candidates.png?raw=true" width="350">
+</div>
 
 ### 3. Chart
 In the chart you can see the number of applicants from each country.
 
 To the left of the chart is a legend, which you can use to filter the countries that will be displayed in the chart.
 
-<div style="text-align: center;">
+<div align="center">
     <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/chart.png?raw=true" width="300">
 </div>
 
 ### 4. Date filter
 Using the date filter, you can filter from the table only those applicants who fall within the date range you have chosen.
 
-<div style="text-align: center;">
+<div align="center">
     <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/date_filter.png?raw=true" width="300">
 </div>
