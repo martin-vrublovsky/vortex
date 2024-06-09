@@ -12,7 +12,7 @@
 You can move between the **Home** and **About** subpages via the side nav bar.
 
 <div align="center">
-    <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/side_nav_bar.png?raw=true" width="200">
+    <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/side_nav_bar.png?raw=true" width="150">
 </div>
 
 ### 2. Table of applicants
@@ -23,7 +23,7 @@ With the ${\textsf{\color{yellow}yellow pen icon}}$, you can change information 
 You can remove a applicant from the table with the ${\textsf{\color{red}red trash icon}}$.
 
 <div align="center">
-    <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/table_of_candidates.png?raw=true" width="450">
+    <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/table_of_candidates.png?raw=true" width="550">
 </div>
 
 ### 3. Chart
