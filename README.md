@@ -23,7 +23,7 @@ With the ${\textsf{\color{yellow}yellow pen icon}}$, you can change information 
 You can remove a applicant from the table with the ${\textsf{\color{red}red trash icon}}$.
 
 <div align="center">
-    <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/table_of_candidates.png?raw=true" width="350">
+    <img src="https://github.com/martin-vrublovsky/vortex/blob/main/public/img/table_of_candidates.png?raw=true" width="450">
 </div>
 
 ### 3. Chart
