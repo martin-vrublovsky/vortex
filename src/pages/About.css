@@ -1,0 +1,48 @@
+.subpage-wrapper h2 {
+    margin: 1rem;
+}
+
+.subpage-wrapper ol li a {
+    text-decoration: underline;
+}
+
+.subpage-wrapper img {
+    margin: 1rem;
+}
+
+.subpage-wrapper .img-1 {
+    width: 50rem;
+}
+
+.subpage-wrapper .img-2 {
+    width: 10rem;
+}
+
+.subpage-wrapper .img-3 {
+    width: 40rem;
+}
+
+.subpage-wrapper .img-4 {
+    width: 22rem;
+}
+
+.subpage-wrapper .img-5 {
+    width: 22rem;
+}
+
+.subpage-wrapper .hr {
+    border-bottom: 1.5px solid var(--white);
+    width: 70%;
+    margin-top: 0.3rem;
+}
+
+.subpage-wrapper p {
+    line-height: 1.5;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}

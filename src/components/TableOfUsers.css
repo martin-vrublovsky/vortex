@@ -1,0 +1,57 @@
+/* Grid layout */
+aside {
+    grid-area: aside;
+}
+
+main {
+    grid-area: main;
+    overflow: auto;
+    margin: 2rem;
+}
+/* End - Grid layout */
+
+/* Table */
+table {
+    background-color: var(--navy-blue-bg);
+    color: var(--white);
+    border: 1.5px solid var(--white);
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table thead tr th,
+table tbody tr td {
+    border-bottom: 1px solid var(--white);
+    font-size: 0.9rem;
+    padding: 0.5rem;
+}
+/* End - Table */
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 0.6rem;
+    height: 0.6rem;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--white);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--gray);
+    border-radius: 0.3rem;
+}
+
+::-webkit-scrollbar-thumb:hover,
+::-webkit-scrollbar-thumb:active {
+    background: var(--gray-hover-active);
+}
+/* End - Custom scrollbar */
+
+/* Responsive design */
+@media only screen and (max-width: 480px) {
+    main {
+        margin: 1rem;
+    }
+}
+/* End - Responsive design */

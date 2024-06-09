@@ -1,0 +1,4 @@
+table thead tr th {
+    text-align: start;
+    border-bottom: 1.5px solid var(--white);
+}
